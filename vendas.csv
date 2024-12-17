@@ -1,0 +1,81 @@
+data,produto,quantidade,valor_venda
+2024-01-01,iPhone 14,15,15000.00
+2024-01-01,Mouse Logitech G502,20,2000.00
+2024-01-02,iPhone 13,10,10000.00
+2024-01-02,Teclado Mecânico Corsair K95,5,500.00
+2024-01-03,Processador AMD Ryzen 5,8,2400.00
+2024-01-03,Monitor Dell 24",12,1200.00
+2024-01-04,iPhone 12,5,5000.00
+2024-01-04,Mouse Razer DeathAdder,10,1000.00
+2024-01-05,Teclado Razer BlackWidow,7,700.00
+2024-01-05,Processador Intel i7,6,3000.00
+2024-01-06,iPhone SE,3,3000.00
+2024-01-06,Monitor LG 27",5,1500.00
+2024-01-07,Mouse HyperX Pulsefire,8,800.00
+2024-01-07,Teclado Logitech G Pro,2,200.00
+2024-02-01,iPhone 14 Pro,12,12000.00
+2024-02-01,Mouse SteelSeries Rival 600,7,700.00
+2024-02-02,iPhone 13 Mini,9,9000.00
+2024-02-02,Teclado Mecânico Razer Huntsman,11,1100.00
+2024-02-03,Processador AMD Ryzen 7,5,3500.00
+2024-02-03,Monitor Samsung 32",6,1800.00
+2024-03-01,iPhone 14,14,14000.00
+2024-03-01,Mouse Logitech MX Master 3,10,1000.00
+2024-03-02,iPhone 13,8,8000.00
+2024-03-02,Teclado Corsair K70,9,900.00
+2024-03-03,Processador Intel i5,3,1500.00
+2024-03-03,Monitor AOC 24",5,1200.00
+2024-04-01,iPhone 12,10,10000.00
+2024-04-01,Mouse Razer Naga,12,1200.00
+2024-04-02,iPhone SE,7,7000.00
+2024-04-02,Teclado Logitech G915,8,1600.00
+2024-04-03,Processador AMD Ryzen 9,4,4500.00
+2024-04-03,Monitor BenQ 27",6,1500.00
+2024-05-01,iPhone 14,9,9000.00
+2024-05-01,Mouse Corsair M65,5,500.00
+2024-05-02,iPhone 13,11,11000.00
+2024-05-02,Teclado Razer Cynosa,15,1500.00
+2024-05-03,Processador Intel i9,4,5000.00
+2024-05-03,Monitor LG UltraWide,7,2000.00
+2024-06-01,iPhone 14 Pro,10,10000.00
+2024-06-01,Mouse Logitech G Pro X,6,600.00
+2024-06-02,iPhone 13 Mini,8,8000.00
+2024-06-02,Teclado Corsair K55,10,1000.00
+2024-06-03,Processador AMD Ryzen 5,5,2400.00
+2024-06-03,Monitor Dell UltraSharp,4,2000.00
+2024-07-01,iPhone 14,12,12000.00
+2024-07-01,Mouse Razer Viper,7,700.00
+2024-07-02,iPhone 13,9,9000.00
+2024-07-02,Teclado Logitech G413,8,800.00
+2024-07-03,Processador Intel i7,3,3000.00
+2024-07-03,Monitor Samsung Curvo, 5,1500.00
+2024-08-01,iPhone 14 Pro,11,11000.00
+2024-08-01,Mouse SteelSeries Rival 310,6,600.00
+2024-08-02,iPhone 13 Mini,10,10000.00
+2024-08-02,Teclado Mecânico HyperX Alloy,9,900.00
+2024-08-03,Processador AMD Ryzen 7,4,3500.00
+2024-08-03,Monitor AOC 27",5,1800.00
+2024-09-01,iPhone 12,13,13000.00
+2024-09-01,Mouse Logitech G703,8,800.00
+2024-09-02,iPhone SE,6,6000.00
+2024-09-02,Teclado Razer Ornata,7,700.00
+2024-09-03,Processador Intel i5,5,1500.00
+2024-09-03,Monitor BenQ 24",4,1200.00
+2024-10-01,iPhone 14,14,14000.00
+2024-10-01,Mouse Razer Basilisk,9,900.00
+2024-10-02,iPhone 13,10,10000.00
+2024-10-02,Teclado Corsair K70 RGB,8,1600.00
+2024-10-03,Processador AMD Ryzen 9,3,4500.00
+2024-10-03,Monitor LG 32",6,2000.00
+2024-11-01,iPhone 14 Pro,12,12000.00
+2024-11-01,Mouse Logitech G502,7,700.00
+2024-11-02,iPhone 13 Mini,9,9000.00
+2024-11-02,Teclado Razer BlackWidow,10,1000.00
+2024-11-03,Processador Intel i9,4,5000.00
+2024-11-03,Monitor Dell 27",5,1500.00
+2024-12-01,iPhone 14,15,15000.00
+2024-12-01,Mouse Razer DeathAdder,10,1000.00
+2024-12-02,iPhone 13,11,11000.00
+2024-12-02,Teclado Logitech G Pro X,8,1600.00
+2024-12-03,Processador AMD Ryzen 5,6,2400.00
+2024-12-03,Monitor Samsung 24",5,1200.00
